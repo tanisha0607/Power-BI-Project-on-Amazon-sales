@@ -2,15 +2,20 @@
 This repository contains a comprehensive Power BI project focused on analyzing Amazon sales data. The goal of this project is to provide actionable insights into sales performance, customer behavior, and market trends, helping stakeholders make informed decisions.
 
 ## Key Features:
-### Sales Overview Dashboard: Visualizes key metrics like total sales, revenue trends, and product performance across different time periods.
+### Sales Overview Dashboard: 
+Visualizes key metrics like total sales, revenue trends, and product performance across different time periods.
 
-### Customer Insights: Detailed analysis of customer demographics, purchase patterns, and customer segmentation.
+### Customer Insights: 
+Detailed analysis of customer demographics, purchase patterns, and customer segmentation.
 
-### Market Basket Analysis: Identifies common product combinations and cross-selling opportunities.
+### Market Basket Analysis: 
+Identifies common product combinations and cross-selling opportunities.
 
-### Regional Sales Analysis: Breaks down sales performance by region, highlighting high-performing areas and potential growth opportunities.
+### Regional Sales Analysis: 
+Breaks down sales performance by region, highlighting high-performing areas and potential growth opportunities.
 
-#### Interactive Reports: Allows users to filter and drill down into specific data points for a deeper understanding of the sales data.
+### Interactive Reports:
+Allows users to filter and drill down into specific data points for a deeper understanding of the sales data.
 
 
 ## Tools & Technologies:
