@@ -14,13 +14,19 @@ Interactive Reports: Allows users to filter and drill down into specific data po
 
 
 Tools & Technologies:
+
 Power BI for data visualization and dashboard creation.
+
 DAX (Data Analysis Expressions) for complex data calculations and transformations.
+
 SQL for data extraction and manipulation from the database.
 
 
 Project Objectives:
 To understand the sales trends and identify the best-selling products.
+
 To gain insights into customer preferences and behavior.
+
 To optimize inventory management based on sales data.
+
 To provide strategic recommendations for boosting sales and improving customer satisfaction.
